@@ -1,5 +1,6 @@
 THIS PROGRAM REQUIRES A CLAUDE API KEY(it wont work without it (you can try changing the code and using groq tho))
 
+make sure u have a twitch client id and your twitch client secret!
 
 run these in your cmd terminal to create the env variables
 
